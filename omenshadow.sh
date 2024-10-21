@@ -42,7 +42,7 @@ display_ascii_art1() {
     echo "             .:+#%%%#-+********##*#%#************+=+*%%%%%%%%%%%%%+%%%##****#####%*:   "
     echo "               .-+#%%#=-+*******###***********==+#@@%%%%%%%%@%%%%%%%%###%%%%%%#=-:.    "
     echo "                                                                                       "
-    echo "                         GitHub: your-github-link                      "
+    echo "            GitHub: git clone https://github.com/Dhanush2468/omenshadow_v0.01.git      "
     echo
 }
 
